@@ -49,5 +49,6 @@ traitlets==5.14.3
 typing_extensions==4.12.2
 tzdata==2024.1
 wcwidth==0.2.13
+cairocffi==1.4.0
 wordcloud==1.9.3
 xgboost==2.1.0

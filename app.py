@@ -3,6 +3,7 @@ import pickle
 import string
 from nltk.corpus import stopwords
 import nltk
+import cairocffi as cairo
 from nltk.stem.porter import PorterStemmer
 import warnings
 warnings.filterwarnings("ignore", category=UserWarning, module='sklearn')
